@@ -1,4 +1,4 @@
-# My-1st-Repository
+# NOTAMs und SUPs
 
-Test-Repository für alles mögliche, somit nicht-produktiv.<br>
-Template für alle neuen Repositorys.
+Enthält die aktuellen Baustellen, Sperrungen, NOTAMs und SUPs für EDMM, EDWW und EDBB.
+Repo dient als Cloud um die publizierten Dateien in GRP einzubinden.
